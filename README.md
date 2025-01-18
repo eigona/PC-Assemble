@@ -3,7 +3,7 @@
 **` WELCOME !`**
 Have you ever wondered about the insides of a PC? Luckily, I will share my experience assembling a pc with you. This session was actually one of the activities of the subject I've taken this semester which is Technology and Information System. 
 
-<img align="left" alt="Coding" width="400" src="WhatsApp Image 2024-12-06 at 15.59.07_3f02d288.jpg">                      
+<img align="left" alt="Coding" width="1000" src="WhatsApp Image 2024-12-06 at 15.59.07_3f02d288.jpg">                      
 
  Now, I would like to share about the components and their functions.
    1. CPU - Central processing unit, or CPU. CPU is also known as the brain of the computer. The CPU interprets and executes instructions from the computer’s memory, including arithmetic and logical operations, instructions for moving data around, and instructions for controlling flow.
@@ -14,4 +14,6 @@ Have you ever wondered about the insides of a PC? Luckily, I will share my exper
    6. Cooling fan - Regulate engine temperature by dissipating excess heat. Engines generate a tremendous amount of heat during operation, and if this heat is not managed effectively, it can lead to overheating and result in engine damage.
    7. Hard drive - Stores all of your digital content. Hard drives can be external or internal.
 
-<img align="left" alt="Coding" width="400" src="WhatsApp Image 2024-12-06 at 16.41.18_4cb28cff.jpg">
+<img align="left" alt="Coding" width="1000" src="WhatsApp Image 2024-12-06 at 16.41.18_4cb28cff.jpg">
+
+
